@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Giulio987
-- 🌱 I’m currently specializing on React and React Native
+- 🌱 I’m currently specializing React Native & Swift
 - 📫 How to reach me giulio.milani99@gmail.com
